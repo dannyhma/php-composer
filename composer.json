@@ -13,12 +13,6 @@
             "email": "dannyhimawan089@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/dannyhma/library-composer"
-        }
-    ],
     "require": {
         "php": ">=8.0",
         "himaone/library-composer": "2.0.0",

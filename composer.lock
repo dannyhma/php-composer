@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c3828fb26f605be75741f61762bb34ca",
+    "content-hash": "ea07b2ae280c8590c8843ff62fbe179e",
     "packages": [
         {
             "name": "himaone/library-composer",
@@ -29,6 +29,7 @@
                     "Himaone\\LibraryComposer\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "authors": [
                 {
                     "name": "dannyhma",
@@ -37,8 +38,8 @@
             ],
             "description": "Library Composer",
             "support": {
-                "source": "https://github.com/dannyhma/library-composer/tree/2.0.0",
-                "issues": "https://github.com/dannyhma/library-composer/issues"
+                "issues": "https://github.com/dannyhma/library-composer/issues",
+                "source": "https://github.com/dannyhma/library-composer/tree/2.0.0"
             },
             "time": "2024-07-27T11:14:55+00:00"
         },
