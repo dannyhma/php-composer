@@ -1,0 +1,27 @@
+{
+    "name": "himaone/php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Himaone\\PhpComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dannyhma",
+            "email": "dannyhimawan089@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dannyhma/library-composer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "himaone/library-composer": "1.0.0",
+        "monolog/monolog": "3.7.0"
+    }
+}
