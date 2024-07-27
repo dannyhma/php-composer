@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e6fb91c9c977081ee95057a822777866",
+    "content-hash": "c3828fb26f605be75741f61762bb34ca",
     "packages": [
         {
             "name": "himaone/library-composer",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dannyhma/library-composer.git",
-                "reference": "980f3b2dda126440993c03e9587574fb62ebe84e"
+                "reference": "787698e1235396497efb0c2f22d8e2103c7d2608"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dannyhma/library-composer/zipball/980f3b2dda126440993c03e9587574fb62ebe84e",
-                "reference": "980f3b2dda126440993c03e9587574fb62ebe84e",
+                "url": "https://api.github.com/repos/dannyhma/library-composer/zipball/787698e1235396497efb0c2f22d8e2103c7d2608",
+                "reference": "787698e1235396497efb0c2f22d8e2103c7d2608",
                 "shasum": ""
             },
             "require": {
@@ -37,10 +37,10 @@
             ],
             "description": "Library Composer",
             "support": {
-                "source": "https://github.com/dannyhma/library-composer/tree/1.0.0",
+                "source": "https://github.com/dannyhma/library-composer/tree/2.0.0",
                 "issues": "https://github.com/dannyhma/library-composer/issues"
             },
-            "time": "2024-07-27T10:57:25+00:00"
+            "time": "2024-07-27T11:14:55+00:00"
         },
         {
             "name": "monolog/monolog",

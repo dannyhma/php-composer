@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "himaone/library-composer": "1.0.0",
+        "himaone/library-composer": "2.0.0",
         "monolog/monolog": "3.7.0"
     }
 }
